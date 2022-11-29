@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sachinthokale
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Python-Django framework
-- 💞️ I’m looking for a job Opportunities as a python developer
+- 🌱 I have good knowledge in React-js, html, css, JavaScript, ES6 
+- 💞️ I’m looking for a job Opportunities as a React-js developer
 - 📫 you can reach me with the help of sachinthokale999@gmail.com
 
 <!---
